@@ -1,7 +1,4 @@
-//
-// Software disk implementation for LSU 4103 filesystem assignment.
-// Written by Golden G. Richard III (@nolaforensix), 10/2017.
-//
+
 
 #include <stdio.h>
 #include <stdlib.h>
